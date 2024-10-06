@@ -1,12 +1,10 @@
-# OpenMower Mainboard for YardForce Mowers
+# OpenMower Mainboard for Worx Mowers
 
 
 
 ## Information
 
-This hardware version is in beta state. Expect for things to not work at the current state!
-
-If you want to build an OpenMower based on a YardForce platform, I recommend the tested v1 hardware.
+This hardware version is in development. Nothing works, this is not nearly done!!
 
 
 
